@@ -1,11 +1,11 @@
 Pizzerie - obednavky + dovoz domu?
 
-tabulky: jidla, vazbni(jidla + obednavky) ,obednavky, kuriri, mista
+tabulky: jidla, vazbni(jidla + obednavky) ,obednavky, kuryri, mista
 
 atributy:
-  jidla:nazev, cena, doba pripravy, alergeny
+  jidla:nazev, cena, doba pripravy, alergeny, cislo jidla
   vazby:id
-  obednavky: telnefon, jmeno, datum, typ obednavky
-  kuriri: jmeno, prijmeni, rodne cislo, telefon
+  obednavky: telefon, jmeno, datum, typ obednavky, cislo objednavky
+  kuryri: jmeno, prijmeni, rodne cislo, telefon, cislo kuryra
   mista: mesto, ulice, psc, cp
   

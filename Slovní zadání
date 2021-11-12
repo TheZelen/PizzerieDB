@@ -1,4 +1,11 @@
-Databaze pro evidenci obedavek v pizzerii.
-obednavku lze vyzvednout but na miste, nebo ji lze nechat dovest domu.
-u obednavky potrebujeme evidovat datum obednavky, adresu a co si obednal
-ke kazde obednavce bude pridelen kuryr ktery je za ni zodpovedny
+Vytvořte databázový systém pro evidenci objednávek v pizzerii.
+
+U objednávky potřebujeme evidovat datum objednávky, adresu a co si objednal.
+
+Každé jídlo musí mít přiřazeny patřičné alergeny. 
+
+Ke každé objednávce bude přidělen kurýr, ktery je za ně zodpovědný.
+
+Zákazník si nákup podepisuje jeho zvoleným jménem (popř. telefon), na které si ho následně může vyzvedne.
+
+

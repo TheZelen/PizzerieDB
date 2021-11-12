@@ -1,11 +1,27 @@
 
-Pizzerie - obednavky + dovoz domu
+tabulky:
 
-tabulky: jidla, vazbni(jidla + obednavky) ,obednavky, kuryri, mista
+jídla
+
+objednavky
+
+kurýři
+
+místa
+
+alergeny
+
+
 
 atributy:
-  jidla:nazev, cena, doba pripravy, alergeny, cislo jidla
-  vazby:id
-  obednavky: telefon, jmeno, datum, typ obednavky, cislo objednavky
-  kuryri: jmeno, prijmeni, rodne cislo, telefon, cislo kuryra
-  mista: mesto, ulice, psc, cp
+
+jídla: nazev, cena, doba přípravy, číslo jidla
+
+alergeny: nazev, číslo alergenu
+
+objednávky: telefon, jmeno, datum, číslo objednávky
+
+kurýři: jmeno, prijmeni, rodne cislo, telefonne, číslo kurýra
+
+mista: mesto, ulice, psc, cp
+
